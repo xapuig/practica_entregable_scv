@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# commit-msg hook script
+
+# Obtener el mensaje del commit
+commit_message=$(cat "${1:?Missing commit message file}")
+
+# Verificar si el mensaje del commit contiene los campos necesarios
+if [[ ! $commit_message =~ "MOTIVO DEL COMMIT:" || ! $commit_message =~ "IMPLEMENTACIÓN:" ]]; then
+  echo "Error: El mensaje del commit debe contener los campos 'MOTIVO DEL COMMIT:' y 'IMPLEMENTACIÓN:'"
+  exit 1
+fi
+
+# Si todo está bien, permite el commit
+exit 0

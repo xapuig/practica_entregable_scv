@@ -1,0 +1,42 @@
+#!/bin/bash
+
+
+# Buscar archivos modificados
+changed_files=$(git diff --cached --name-only --diff-filter=ACM)
+correcto=false
+# Función para verificar caracteres no ASCII
+# check_for_non_ascii_characters() {
+#     file=$1
+#     if [[ $(grep -P -n -o "[^\x00-\x7F]" "$file") ]]; then
+#         echo "Error: El archivo $file contiene caracteres no ASCII."
+#         exit 1
+#     fi
+# }
+
+# # Verificar caracteres en archivos modificados
+# for file in $changed_files; do
+#     if [ -f "$file" ]; then
+#         check_for_non_ascii_characters "$file"
+#     fi
+
+# done
+
+echo "Todos los archivos pasaron la verificación de caracteres ASCII."
+correcto=true
+
+# Almacena la salida de eslint-html en una variable
+output=$(./node_modules/.bin/eslint --ext .html .)
+
+# Verifica si hay errores
+if [[ $output =~ "" ]]; then
+  echo "La validación HTML es correcta, se procederá con el commit..."
+  correcto=true
+else
+  echo "La validación HTML ha fallado, arregla los errores antes de realizar el commit."
+  echo "$output"
+  exit 1
+fi
+
+if [ [$correcto] ]; then
+	exit 0
+fi

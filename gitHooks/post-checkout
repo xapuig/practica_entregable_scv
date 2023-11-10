@@ -1,0 +1,15 @@
+# #!/bin/bash
+
+# # post-checkout hook script
+
+# # Verifica si se ha cambiado el branch o realizado un checkout (también cuando se realiza un clonado a menos que se espeecifique lo contrario)
+# if [ "$3" == "1" ]; then
+#   # Elimina la carpeta node_modules
+#   echo "Eliminando la carpeta node_modules..."
+#   rm -rf node_modules
+
+#   echo "Instalando dependencias con npm..."
+#   npm install
+
+#   echo "Carpeta node_modules recreada satisfactoriamente."
+# fi
