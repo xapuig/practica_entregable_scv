@@ -52,87 +52,78 @@ integrados en el mismo proyecto al mismo tiempo.
 El usuario 1 implementa la estructura inicial utilizando el boilerplate
 y modificándolo acorde a lo que se pide en la práctica.
 
-![](./capturas_proceso/24a399d26ba62ac64b42df862c22281a9352e0e2.png){width="6.86698709536308in"
-height="1.9102559055118111in"}
+![img](./capturas_proceso/24a399d26ba62ac64b42df862c22281a9352e0e2.png)
 
-![](./capturas_proceso/4112a0429f5b473be379c24d451f4a12b7fce539.png){width="6.875in"
-height="1.8012817147856517in"}
+![](./capturas_proceso/4112a0429f5b473be379c24d451f4a12b7fce539.png)
 
-![](./capturas_proceso/1f68972f8d2e2e801e0d4e96fa8789c19484f141.png){width="6.850962379702537in"
-height="3.7235575240594927in"}
+![](./capturas_proceso/1f68972f8d2e2e801e0d4e96fa8789c19484f141.png)
 
 El usuario 1 inicia el proyecto
 
-![](./capturas_proceso/68e1b93153fbd55a82d6e7910885427330e6b5c4.png){width="6.8171522309711285in"
-height="0.9644433508311461in"}
+![](./capturas_proceso/68e1b93153fbd55a82d6e7910885427330e6b5c4.png)
 
 El usuario 1 realiza los pasos para tener el proyecto en GitHub
 
-![](./capturas_proceso/a8bdf6ceb1b2ad9b9f03e0faf53869ee6d67551a.png){width="6.5536854768153985in"
-height="6.274037620297463in"}El usuario 1 crea la rama de desarrollo
+![](./capturas_proceso/a8bdf6ceb1b2ad9b9f03e0faf53869ee6d67551a.png)
+
+El usuario 1 crea la rama de desarrollo
 para utilizar la metodología Git Flow
 
-![](./capturas_proceso/cf909e6316b7060cef2d998df3e107305152fd00.png){width="5.0in"
-height="1.2708333333333333in"}
+![](./capturas_proceso/cf909e6316b7060cef2d998df3e107305152fd00.png)
 
 El usuario 2 crea las ramas feature/contenidoHTML y
 feature/atributosHTML basadas en la rama de desarrollo
 
-![](./capturas_proceso/d67f0d640e842385bd2c45e4fc950ed18099ed6a.png){width="6.338529090113735in"
-height="2.997596237970254in"}El usuario 2 completa la feature
-contenidoHTML
+![](./capturas_proceso/d67f0d640e842385bd2c45e4fc950ed18099ed6a.png)
 
-![](./capturas_proceso/2ddb5479f555e268bb2e1c8b51c7117ac9a2a743.png){width="6.338140857392826in"
-height="3.6708398950131236in"}
+El usuario 2 completa la feature contenidoHTML
+
+![](./capturas_proceso/2ddb5479f555e268bb2e1c8b51c7117ac9a2a743.png)
 
 El usuario 2 fusiona la rama de feature/contenidoHTML con la de
 desarrollo
 
-![](./capturas_proceso/46b4cd6f792a21f91f1a49787573d4d590b1742d.png){width="6.538462379702537in"
-height="1.2564107611548556in"}
+![](./capturas_proceso/46b4cd6f792a21f91f1a49787573d4d590b1742d.png)
+![](./capturas_proceso/d81f46a6e8b252b5c63dea62f2b26a1ca959cc03.png)
 
-![](./capturas_proceso/d81f46a6e8b252b5c63dea62f2b26a1ca959cc03.png){width="6.579861111111111in"
-height="0.6354166666666666in"}
 
 El usuario 2 completa la feature atributosHTML
 
-![](./capturas_proceso/ed42d1eb2351359a8b68e11b312bfedafe2debda.png){width="6.498396762904637in"
-height="3.8305621172353455in"}El usuario 2 fusiona la rama de
+![](./capturas_proceso/ed42d1eb2351359a8b68e11b312bfedafe2debda.png)
+El usuario 2 fusiona la rama de
 feature/atributosHTML con la de desarrollo
 
-![](./capturas_proceso/4e3a12bb32828c85a1ff3299afc5366a0eaeea30.png){width="6.482372047244095in"
-height="1.0803958880139983in"}
+![](./capturas_proceso/4e3a12bb32828c85a1ff3299afc5366a0eaeea30.png)
 
-![](./capturas_proceso/c3d6517f013cff606a901dd58a4d4ddb1df9a340.png){width="6.469907042869641in"
-height="1.2708333333333333in"}
+![](./capturas_proceso/c3d6517f013cff606a901dd58a4d4ddb1df9a340.png)
 
 El usuario 3 crea la rama feature/estilosCSS basada en la rama de
 desarrollo
 
-![](./capturas_proceso/6994190ecdb4cae5bd10ca475e0b55ac9a2f6b0d.png){width="6.39423009623797in"
-height="0.8259219160104987in"}
+![](./capturas_proceso/6994190ecdb4cae5bd10ca475e0b55ac9a2f6b0d.png)
 
 El usuario 3 completa la feature estilosCSS
 
-![](./capturas_proceso/091462d658a2819d284884af869435d973b28777.png){width="6.39423009623797in"
-height="4.18169072615923in"}
+![](./capturas_proceso/091462d658a2819d284884af869435d973b28777.png)
 
 El usuario 3 fusiona la rama feature/estilosCSS con la de desarrollo
 
-![](./capturas_proceso/f3aca13e9483255cd14a44c461caf79b51c20176.png){width="6.421809930008749in"
-height="1.1505741469816273in"}![](./capturas_proceso/4c2650f2bbac7db171952a24d9c4ef3cad009eed.png){width="6.446758530183727in"
-height="0.5833333333333334in"}El usuario 1 da el visto bueno así que
+![](./capturas_proceso/f3aca13e9483255cd14a44c461caf79b51c20176.png)
+![](./capturas_proceso/4c2650f2bbac7db171952a24d9c4ef3cad009eed.png)
+
+El usuario 1 da el visto bueno así que
 fusiona la rama de desarrollo con la master
 
-![](./capturas_proceso/9a3de1e471646f44d9bd72375a62cc15f716660a.png){width="6.568287401574803in"
-height="2.0104166666666665in"}El usuario 1 etiqueta la versión como 1.0
+![](./capturas_proceso/9a3de1e471646f44d9bd72375a62cc15f716660a.png)
 
-![](./capturas_proceso/51ca6739db3d3dac89fe5e0f58aa8522a5446042.png){width="6.603009623797026in"
-height="0.9375in"}El usuario 1 crea la rama test para la realización de
+El usuario 1 etiqueta la versión como 1.0
+
+![](./capturas_proceso/51ca6739db3d3dac89fe5e0f58aa8522a5446042.png)
+
+El usuario 1 crea la rama test para la realización de
 pruebas
 
-![](./capturas_proceso/78cbdf93f59487386d1350dd03e5920dba8cdb44.png){width="6.6232633420822395in"
-height="1.2708333333333333in"}
+![](./capturas_proceso/78cbdf93f59487386d1350dd03e5920dba8cdb44.png)
 
 **El usuario 1 crea los hooks:**
 
@@ -144,12 +135,12 @@ checkout del proyecto hay que ir a la ruta
 En este caso, utilizará el entorno bash para que se recree la carpeta
 node_modules
 
-![](./capturas_proceso/65fda92989ec99afcefbdacbb72a2081cbcc5b16.png){width="6.819083552055993in"
-height="4.009785651793526in"}Finalmente, se añaden permisos de ejecución
+![](./capturas_proceso/65fda92989ec99afcefbdacbb72a2081cbcc5b16.png)
+
+Finalmente, se añaden permisos de ejecución
 al fichero
 
-![](./capturas_proceso/b37f3410560621a36f06db73027351120d666045.png){width="6.685605861767279in"
-height="1.8892038495188102in"}
+![](./capturas_proceso/b37f3410560621a36f06db73027351120d666045.png)
 
 Para la verificación del texto de un commit, en la carpeta anterior se
 renombra el archivo existente **commit-msg.sample** a **commit-msg.**
@@ -157,13 +148,10 @@ renombra el archivo existente **commit-msg.sample** a **commit-msg.**
 Una vez realizado esto, se modifica el archivo para conseguir lo que se
 quiere, en este caso:
 
-![](./capturas_proceso/d1000853c3099ba75ca257030150c8a61f5da7f6.png){width="6.666666666666667in"
-height="3.3494313210848645in"}
-
+![](./capturas_proceso/d1000853c3099ba75ca257030150c8a61f5da7f6.png)
 También se le dan permisos de ejecución al fichero:
 
-![](./capturas_proceso/89f3a4b15f166893305bf3e66b27e5540ff86ff7.png){width="6.590908792650919in"
-height="0.5738637357830271in"}
+![](./capturas_proceso/89f3a4b15f166893305bf3e66b27e5540ff86ff7.png)
 
 Ahora se crea el hook para la verificación de caracteres extraños y
 utilizar el plugin eslint html:
@@ -210,7 +198,6 @@ documentación de todo el proceso en el fichero README.md
 
 ![img](./capturas_proceso/87f2ffac0cbc4540472f63b0e47127469fe95c23.png)
 ![img](./capturas_proceso/38fda92f76ec18fba755d60da2b00636870986bd.png)
-
 
 Se activará la opción de GitHub Pages en GitHub:
 
